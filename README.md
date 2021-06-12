@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MUBIN UIC
 - 👀 I’m interested in Learning and Creating something new .(Tech) 
 - 🌱 I’m currently learning Machine Learning and Spring Framework
-- 💞️ I’m looking to collaborate on Android app development , Springboot and Machine Learing projects .
+- 💞️ I’m looking to collaborate on Android app development , Springboot and Machine Learning projects .
 - 📫 You can reach me via email (uic.mubin@gmail.com)
 
 <!---
