@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MUBIN UIC
+- 👋 Hi, I’m <b>MUBIN UIC</b>
 - 👀 I’m interested in Learning and Creating something new .(Tech) 
 - 🌱 I’m currently learning and working on <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Computer vision projects</b>.
-- 💞️ I’m looking to collaborate on Spring and <b>Machine Learning </b> & <b>Deep Learning</b> .
+- 💞️ I’m looking to collaborate on <b>Spring</b> and <b>Machine Learning </b> & <b>Deep Learning</b> .
 - 📫 You can reach me via email <b><i>(uic.mubin@gmail.com)</i></b>
 
 <!---
