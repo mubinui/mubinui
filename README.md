@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ericwali/ericwali/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/pulls?q=author:ericwali">
+<a href="https://github.com/pulls?q=author:mubinui">
   <img alt="Shows Mubin UIC's Github Status." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=mubinui&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
 </a>
 
