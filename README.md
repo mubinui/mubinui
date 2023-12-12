@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/ericwali/ericwali/output/github-contribution-grid-snake.svg)
 <p>
 <a href="https://github.com/pulls?q=author:mubinui">
-  <img alt="Shows Mubin UIC's Github Status." align="left" width="480px" src="https://github-stats.liuli.lol/api?username=mubinui&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+  <img alt="Shows Mubin UIC's Github Status." align="center"  src="https://github-stats.liuli.lol/api?username=mubinui&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
 </a>    
 </p>
 
