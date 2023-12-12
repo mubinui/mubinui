@@ -1,9 +1,12 @@
+
+<p>
 ![](https://raw.githubusercontent.com/ericwali/ericwali/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/pulls?q=author:mubinui">
   <img alt="Shows Mubin UIC's Github Status." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=mubinui&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-</a>
-<br>
+</a>  
+</p>
+
 
 - 👋 <h1> Hi, I’m <b>MUBIN UIC</b></h1>
 - 👀 I’m interested in Learning and Creating something new .(Tech) 
